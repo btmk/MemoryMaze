@@ -22,7 +22,7 @@ namespace GameProject2D
         {
             content = _content;
         }
-
+        
         public cellContent getContent()
         {
             return content;
